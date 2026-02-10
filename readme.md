@@ -95,11 +95,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Language Understanding (LUIS) Samples](https://github.com/Azure-Samples/cognitive-services-language-understanding) ⚠️ Archived - Samples for the Language Understanding Intelligent Service (LUIS).
 * [Sitecore Azure Content](https://github.com/olegburov/Sitecore-Azure-Content) ⚠️ Archived - Articles on how to automate deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
 * [Sitecore Azure Scripts](https://github.com/robhabraken/Sitecore-Azure-Scripts) ⭐ 16 | 🐛 0 | 🌐 PowerShell | 📅 2020-12-17 - Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
-* [Sitecore Advanced Azure Devops](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) ⭐ 14 | 🐛 0 | 🌐 PowerShell | 📅 2020-01-03 - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
+* [Sitecore Advanced Azure Devops](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) ⭐ 15 | 🐛 0 | 🌐 PowerShell | 📅 2020-01-03 - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
 * [CloudMediaLibrary](https://github.com/jammykam/Sitecore-CloudMediaLibrary) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2016-04-21 - Allow Sitecore Media Library to store and serve from Cloud Storage.
+* [Sitecore Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) ⭐ 3 | 🐛 0 | 🌐 PowerShell | 📅 2020-08-12 - Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.
 * [Sitecore Diagnostics](https://github.com/BasLijten/SitecoreDiagnostics) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2016-03-11 - Sitecore Diagnostics using Application Insights.
 * [Application Insights Annotations](https://github.com/BasLijten/sitecore-application-insights-annotations) ⭐ 3 | 🐛 1 | 🌐 C# | 📅 2018-12-13 - Creates App Insinghts annotations.
-* [Sitecore Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) ⭐ 2 | 🐛 0 | 🌐 PowerShell | 📅 2020-08-12 - Azure Resource Manager (ARM) templates to install the Sitecore Publishing Service in a Sitecore Azure PaaS environment.
 * [Sitecore Media Azure Blob Storage provider](https://github.com/ivansharamok/Sitecore.Media.AzureBlobStorage) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2016-09-22 - Allows to store Sitecore media library assets in the Azure Blob Storage account.
 * [SitecoreCognitiveServices](https://github.com/smithc/SitecoreCognitiveServices) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2017-03-17 - SDK integrating Microsoft's Cognitive Services into Sitecore.
 
@@ -116,7 +116,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## CDP
 
-* [Sitecore CDP Serializer](https://github.com/dylanyoung-dev/sitecore-cdp-serializer) ⭐ 2 | 🐛 15 | 🌐 TypeScript | 📅 2024-08-02 - A Node.js tool aimed to serialize CDP and Personalize assets on a hard drive and restore that back.
+* [Sitecore CDP Serializer](https://github.com/dylanyoung-dev/sitecore-cdp-serializer) ⭐ 3 | 🐛 15 | 🌐 TypeScript | 📅 2024-08-02 - A Node.js tool aimed to serialize CDP and Personalize assets on a hard drive and restore that back.
 
 ## Commerce
 
@@ -138,12 +138,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Containers
 
 * [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) ⭐ 1,147 | 🐛 16 | 🌐 PowerShell | 📅 2025-06-08 - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
-* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 180 | 🐛 47 | 🌐 PowerShell | 📅 2026-02-09 - Build your own Docker images for the most recent versions of Sitecore.
+* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 180 | 🐛 47 | 🌐 PowerShell | 📅 2026-02-10 - Build your own Docker images for the most recent versions of Sitecore.
 * [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 84 | 🐛 2 | 🌐 C# | 📅 2025-07-21 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 * [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) ⭐ 82 | 🐛 14 | 🌐 PowerShell | 📅 2025-06-25 - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
-* [Container Deployment](https://github.com/Sitecore/container-deployment) ⭐ 31 | 🐛 7 | 🌐 PowerShell | 📅 2025-12-15 - Provides examples on how to deploy Sitecore containers using various methods.
-* [Sitecore Docker Tools](https://github.com/sitecore/docker-tools) ⭐ 28 | 🐛 8 | 🌐 PowerShell | 📅 2025-07-11 - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
+* [Container Deployment](https://github.com/Sitecore/container-deployment) ⭐ 32 | 🐛 7 | 🌐 PowerShell | 📅 2025-12-15 - Provides examples on how to deploy Sitecore containers using various methods.
+* [Sitecore Docker Tools](https://github.com/sitecore/docker-tools) ⭐ 29 | 🐛 8 | 🌐 PowerShell | 📅 2025-07-11 - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
 * [Packer for Sitecore](https://github.com/asmagin/sitecore-packer) ⭐ 22 | 🐛 3 | 🌐 Ruby | 📅 2020-04-10 - Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 * [Konabos Docker Examples](https://github.com/konabos/konabos-docker-examples) ⭐ 12 | 🐛 0 | 🌐 PowerShell | 📅 2025-01-21 - Sample compose files and associated configuration beyond those officially provided by Sitecore.
 * [Containers & AKS](https://github.com/bplasmeijer/Sitecore-Symposium-2020-Containers-AKS) ⭐ 12 | 🐛 0 | 🌐 PowerShell | 📅 2020-10-27 - Taking Sitecore 10 to the next level into Azure AKS.
@@ -174,8 +174,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Content SDK
 
-* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 31 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-06 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
-* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 19 | 🐛 6 | 🌐 PowerShell | 📅 2026-02-07 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
+* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 31 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-09 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
+* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 19 | 🐛 6 | 🌐 PowerShell | 📅 2026-02-09 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
 
 ## Content Search
 
@@ -238,8 +238,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [SitecoreFieldSuite](https://github.com/Velir/SitecoreFieldSuite) ⭐ 6 | 🐛 6 | 🌐 C# | 📅 2021-09-28 - Provides Sitecore users a more streamlined and informational approach to content authoring. This is achieved by revamping 5 field types, introducing an Images field, enabling automatic publishing of referenced items, and adding new functionality such as the Edit Form, Go to Item button, and the Field Gutter.
 * [Environment Styler for Sitecore](https://github.com/jammykam/Environment-Styler-for-Sitecore) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2017-03-01 - An environment-specific styling (and text) on the login screen and header ribbon for Sitecore.
 * [Browse Command](https://github.com/ParTech/Browse-Command) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2014-03-11 - Adds a command that allows the user to open an item from the Sitecore content tree in a new browser window. Sitecore does not offer this out-of-the-box, except for the Preview command which has the effect of entering preview mode, so the given module will do the same but without entering Preview mode.
+* [Sitecore-TinyMCERTE](https://github.com/EmanueleCiriachi/Sitecore-TinyMCERTE) ⭐ 3 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-10 - A Sitecore Control that uses the Tiny MCE Editor in place of the default one.
 * [CopyPageToVersions](https://github.com/merkle-open/SitecoreCopyPageToVersions) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2019-04-30 - An extension for the Content Editor and the Experience Editor providing a dialog for content editors, where a page in a specific version can be copied to a selectable list of language versions, including all datasources referenced on the page renderings.
-* [Sitecore-TinyMCERTE](https://github.com/EmanueleCiriachi/Sitecore-TinyMCERTE) ⭐ 2 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-10 - A Sitecore Control that uses the Tiny MCE Editor in place of the default one.
 * [Expand Descendants Command](https://github.com/ParTech/Expand-Descendants-Command#expand-descendants-command) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2014-03-11 - The module adds a command that allows the user to expand all descendants of an item from the Sitecore content tree.
 * [InsertOptionsLoophole](https://github.com/TwentyGotoTen/InsertOptionsLoophole) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2014-07-19 - Prevents Sitecore users from bypassing insert options.
 * [ScopeToThis](https://github.com/ianjohngraham/Coreblimey.ScopeToThis) ⭐ 1 | 🐛 0 | 🌐 ASP | 📅 2015-04-28 - Allows "scope to this" functionality a la Visual Studio on the Sitecore Content Editor tree.
@@ -285,7 +285,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [SitecoreQL](https://github.com/kmazzoni/SitecoreQL) ⭐ 15 | 🐛 1 | 🌐 JavaScript | 📅 2018-06-28 - A GraphQL implementation for Sitecore, for example, you can query against Sitecore's Content Search API.
 * ['Hello World' Starter for Sitecore JSS Tech Preview 4](https://github.com/altola/sitecore-jss-react-starter) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2019-04-24 - A hello world starter for Sitecore JSS without GraphQL bits.
 * [Headless Examples](https://github.com/Sitecore/headless-examples) ⭐ 9 | 🐛 2 | 📅 2023-05-30 - A repository with valuable examples, such as JSS embedded app and Next.js using federated authentication.
-* [jss21.4-nextjs-storybook7.4](https://github.com/jflheureux/jss21.4-nextjs-storybook7.4) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-17 - Sitecore JSS 21.4 Next.js sample application in which Storybook 7.4 was added step by step, exposed with the commit history.
+* [jss21.4-nextjs-storybook7.4](https://github.com/jflheureux/jss21.4-nextjs-storybook7.4) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2023-10-17 - Sitecore JSS 21.4 Next.js sample application in which Storybook 7.4 was added step by step, exposed with the commit history.
 * [JSS React Starter Application](https://github.com/altola/sitecore-jss-react-basic) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2021-01-05 - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
 * [Extensible JSON Renderings](https://github.com/coreyasmith/jss-extensible-json-renderings) ⭐ 3 | 🐛 3 | 🌐 JavaScript | 📅 2021-01-05 - Extending JSON renderings in Sitecore JavaScript Services.
 * [sugcon-2019-jss-examples](https://github.com/chaturangar/sugcon-2019-jss-examples) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-17 - SugCon 2019 jss examples.
@@ -358,7 +358,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Dianoga](https://github.com/kamsar/Dianoga) ⭐ 104 | 🐛 13 | 🌐 C# | 📅 2024-03-25 - An automatic image optimizer for the Sitecore media library, reduced the size of your images served from Sitecore by 8-70%, completely automatically. When media images are requested, Dianoga automatically runs mozjpeg, PNGOptimizer, SVGO or WebP on the image data immediately after it is placed in the Sitecore media cache.
 * [Media-Framework-Brightcove-Edition](https://github.com/Sitecore/Media-Framework-Brightcove-Edition) ⭐ 3 | 🐛 5 | 🌐 C# | 📅 2018-06-26 - Brightcove connector for Sitecore Media Framework.
-* [Shrink](https://github.com/robhabraken/shrink) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2017-07-10 - Gives an insight into the usage of your media library similar to a disk usage statistics viewer for your hard drives, also shows you which items are being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!
+* [Shrink](https://github.com/robhabraken/shrink) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2017-07-10 - Gives an insight into the usage of your media library similar to a disk usage statistics viewer for your hard drives, also shows you which items are being used and published, so you can easily find media items that unnecessarily take up space in your database and offers you multiple ways of cleaning up your media library!
 * [Autocropper](https://github.com/zkniebel/Autocropper) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2015-09-03 - Automatically generates cropped versions of an image, based on pre-defined dimensions and a specified origin, for use on responsive sites.
 * [YouTube Integration module](https://github.com/ivansharamok/YouTube-Integration) ⭐ 0 | 🐛 0 | 🌐 C# | 📅 2015-06-24 - An easy way to show the videos from a channel on YouTube on your site, the YouTube integration module might be what you are looking for. In the media library, you have a YouTube folder and by typing the name of the channel, all the videos in that channel are now represented by an item and when you create a new video on your channel it automatically updates the channel in the media library.
 
@@ -401,8 +401,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Scheduled Publishing](https://github.com/HedgehogDevelopment/SCScheduledPublishing) ⭐ 8 | 🐛 10 | 🌐 C# | 📅 2023-11-07 - Gives the content editor the option to delay the publishing of an item for a future point in time.
 * [Publish Viewer](https://github.com/mikeedwards83/Glass.PublishViewer) ⭐ 4 | 🐛 1 | 🌐 C# | 📅 2019-06-11 - Allows you to monitor the publishing queue on the Sitecore Publishing CM Server, see their current status, and cancel publishing jobs if required (ie. time queued, time publish job started, duration in the queue, number of items published, average time to publish an item, all messages from the published job).
+* [Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) ⭐ 3 | 🐛 0 | 🌐 PowerShell | 📅 2020-08-12 - ARM templates to install the Sitecore Publishing Service in your Sitecore Azure PaaS environment and scripts to create the necessary Web Deployment Packages.
 * [SIF scripts to install Publishing Service](https://github.com/KayeeNL/sitecore-sif-autoinstall-publishingservice) ⭐ 3 | 🐛 0 | 🌐 PowerShell | 📅 2024-04-30 - Powershell scripts that both use the Sitecore Install Framework (SIF) to auto-install the Publishing Service & auto-install the Publishing Module on top of the ContentManagement instance or StandAlone instance.
-* [Publishing Service Azure Templates](https://github.com/coreyasmith/sitecore-publishing-service-azure-templates) ⭐ 2 | 🐛 0 | 🌐 PowerShell | 📅 2020-08-12 - ARM templates to install the Sitecore Publishing Service in your Sitecore Azure PaaS environment and scripts to create the necessary Web Deployment Packages.
 * [Sitecore Power Publish](https://github.com/robhabraken/sitecore-power-publish) ⭐ 1 | 🐛 2 | 🌐 C# | 📅 2015-03-17 - Publish button that forces the item being published, regardless of the state of the Publishable option on the Item tab in the Publish restriction. 1) This function will not publish linked pages in your site that are not published, but only resources like media library items and data sources used in item fields, as those are needed to display the item you want to publish correctly. This method even publishes the templates and layouts used by the current item, if that's not done yet. 2) Unpublish button enables you to unpublish an item with a single click. It will change the Publish Restrictions as it unchecks the Publishable option on the Item tab and publishes the item after that, using a full Republish without Subitems. 3) The Publishing State button shows the publishing state for all publishing targets. If a publishing target is up-to-date, a green dot is shown. If the item is published to a publishing target, but the item has changed afterward, an orange dot is shown (so it's published, but not up-to-date). If the current item is not present in a publishing target at all, a red dot is shown. This function enables the content editor to check in detail if the content is published or not, for every publishing target.
 * [AdvancedPublishDialog](https://github.com/Sitecore/AdvancedPublishDialog) ⭐ 0 | 🐛 4 | 🌐 C# | 📅 2015-07-10 - An enhanced standard publish dialog.
 
@@ -419,9 +419,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## SDK
 
 * [JSS](https://github.com/Sitecore/jss) ⭐ 272 | 🐛 35 | 🌐 TypeScript | 📅 2026-01-26 - An official repo of Sitecore JavaScript Services SDK.
-* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 31 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-06 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
-* [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 17 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-09 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
-* [ASP.NET Core SDK](https://github.com/Sitecore/ASP.NET-Core-SDK) ⭐ 13 | 🐛 19 | 🌐 C# | 📅 2026-01-11 - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
+* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 31 | 🐛 11 | 🌐 TypeScript | 📅 2026-02-09 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
+* [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-09 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
+* [ASP.NET Core SDK](https://github.com/Sitecore/ASP.NET-Core-SDK) ⭐ 13 | 🐛 20 | 🌐 C# | 📅 2026-01-11 - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
 
 ## Security
 
@@ -431,7 +431,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2017-08-10 - Enables the "item:removeVersion" access right, allowing authors to remove individual item versions without allowing authors to delete the entire item. It also allows the initial creator of an item to delete his/her own item, unless an explicit deny delete access right is applied to the item.
 * [ASP.NET 2.0 Membership Database as Identity Server User Store](https://github.com/Sitecore/sitecore-identityserver-contrib-membership) ⭐ 2 | 🐛 1 | 🌐 C# | 📅 2024-08-15 - Validate user logins and passwords against an existing ASP.NET 2.0 membership database containing user data for existing systems.
 * [MasterKey](https://github.com/islaytitans/MasterKey) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2015-04-12 - A module for Unlocking Sitecore Items.
-* [Certz](https://github.com/michaellwest/certz) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-02-09 - Utility built on .net 7 and compiled to a self-contained exe, aimed to simplify certificates management, as a better alternative to mkcert.
+* [Certz](https://github.com/michaellwest/certz) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2026-02-10 - Utility built on .net 7 and compiled to a self-contained exe, aimed to simplify certificates management, as a better alternative to mkcert.
 
 ## SEO
 
@@ -463,13 +463,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Sitecore Send
 
-* [Sitecore Send Postman Collection](https://github.com/neilkillen/SitecoreSendPostmanCollection) ⭐ 3 | 🐛 0 | 📅 2021-12-16 - A postman collection derived from converting the Sitecore Send API Blueprint specification to Open API for use within Postman.
+* [Sitecore Send Postman Collection](https://github.com/neilkillen/SitecoreSendPostmanCollection) ⭐ 4 | 🐛 0 | 📅 2021-12-16 - A postman collection derived from converting the Sitecore Send API Blueprint specification to Open API for use within Postman.
 
 ## SPE (Sitecore PowerShell Extension)
 
-* [SPE Content Migrator](https://github.com/michaellwest/Spe-Content-Migrator) ⭐ 17 | 🐛 3 | 🌐 PowerShell | 📅 2023-02-23 - Script used to migrate content between Sitecore instances using SPE.
+* [SPE Content Migrator](https://github.com/michaellwest/Spe-Content-Migrator) ⭐ 18 | 🐛 3 | 🌐 PowerShell | 📅 2023-02-23 - Script used to migrate content between Sitecore instances using SPE.
+* [Sitecore PowerShell Book](https://github.com/SitecorePowerShell/Book) ⭐ 9 | 🐛 9 | 🌐 CSS | 📅 2025-12-15 - Sitecore PowerShell Book with all the documentation.
 * [Sitecore.Utilities](https://github.com/alan-null/Sitecore.Utilities) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2019-12-09 - A set of small modules for Sitecore PowerShell Extensions.
-* [Sitecore PowerShell Book](https://github.com/SitecorePowerShell/Book) ⭐ 8 | 🐛 9 | 🌐 CSS | 📅 2025-12-15 - Sitecore PowerShell Book with all the documentation.
 * [Sitecore PowerShell](https://github.com/SitecorePowerShell) - Sitecore PowerShell Initiative official GitHub.
 
 ## SPEAK
@@ -488,9 +488,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Sitecore Experience Accelerator index](https://github.com/alan-null/SXA.Index) ⭐ 4 | 🐛 0 | 📅 2025-01-29 - The whole set of dicumentation about SXA.
 * [SXA.Foundation.Variants](https://github.com/MartinMiles/SXA.Foundation.Variants) ⭐ 4 | 🐛 0 | 🌐 C# | 📅 2019-06-12 - A collection of custom SXA rendering variants and some other useful things that may be helpful in your solution.
 * [SXA.Styleguide.Frontend](https://github.com/markvanaalst/SXA.Styleguide.Frontend) ⭐ 2 | 🐛 13 | 🌐 HTML | 📅 2023-01-06 - A repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the separate Scriban templates.
+* [Scriban syntax coloring and auto completion](https://github.com/AdamNaj/SitecoreScriban-vscode) ⭐ 2 | 🐛 3 | 🌐 TypeScript | 📅 2022-03-25 - Scriban syntax coloring and intellisense for known objects extension for Visual Studio Code.
 * [docker-sxa-node](https://github.com/michaellwest/docker-sxa-node) ⭐ 2 | 🐛 0 | 🌐 Dockerfile | 📅 2022-12-15 - Demonstrates using the SXA CLI from within a Docker container with Node installed.
 * [Global Field Validator](https://github.com/JeffDarchuk/SxaGlobalFieldValidator) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2018-10-25 - An SXA module to validate fields at a site level rather than at the template field level.
-* [Scriban syntax coloring and auto completion](https://github.com/AdamNaj/SitecoreScriban-vscode) ⭐ 1 | 🐛 3 | 🌐 TypeScript | 📅 2022-03-25 - Scriban syntax coloring and intellisense for known objects extension for Visual Studio Code.
 * [SXA.Platform.Assemblies](https://github.com/konabos/SXA.Platform.Assemblies) ⭐ 0 | 🐛 0 | 🌐 PowerShell | 📅 2021-03-19 - the lists of assemblies for SXA back to v1.6 and Powershell script to generate your own.
 
 ## Testing
@@ -536,7 +536,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * [Node XM Cloud Proxy](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/node-xmcloud-proxy) ⭐ 272 | 🐛 35 | 🌐 TypeScript | 📅 2026-01-26 - Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.
 * [XM Cloud Starter Kit](https://github.com/sitecorelabs/xmcloud-foundation-head) ⚠️ Archived - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
-* [XM Cloud Introduction](https://github.com/Sitecore/XM-Cloud-Introduction) ⭐ 52 | 🐛 12 | 🌐 CSS | 📅 2026-02-06 - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
+* [XM Cloud Introduction](https://github.com/Sitecore/XM-Cloud-Introduction) ⭐ 52 | 🐛 13 | 🌐 CSS | 📅 2026-02-09 - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
 * [Play Summit](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) ⭐ 24 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-18 - Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.
 * [FEaaS BYOC Example](https://github.com/Sitecore/feaas-nextjs-example) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2023-10-19 - A repo that demonstrates an example of BYOC components using best practices.
 * [Verticals](https://github.com/Sitecore/Sitecore.Demo.XMCloud.Verticals) ⭐ 5 | 🐛 6 | 🌐 TypeScript | 📅 2025-02-25 - A headless multi-site solution focused on XM Cloud content and site management capabilities. Includes easily customizable sample sites for select industries.
