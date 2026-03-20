@@ -138,8 +138,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Containers
 
 * [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) ⭐ 1,150 | 🐛 16 | 🌐 PowerShell | 📅 2025-06-08 - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
-* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 181 | 🐛 47 | 🌐 PowerShell | 📅 2026-03-19 - Build your own Docker images for the most recent versions of Sitecore.
-* [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 85 | 🐛 2 | 🌐 C# | 📅 2025-07-21 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
+* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 181 | 🐛 47 | 🌐 PowerShell | 📅 2026-03-20 - Build your own Docker images for the most recent versions of Sitecore.
+* [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 84 | 🐛 2 | 🌐 C# | 📅 2025-07-21 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 * [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) ⭐ 82 | 🐛 14 | 🌐 PowerShell | 📅 2025-06-25 - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
 * [Container Deployment](https://github.com/Sitecore/container-deployment) ⭐ 32 | 🐛 7 | 🌐 PowerShell | 📅 2025-12-15 - Provides examples on how to deploy Sitecore containers using various methods.
@@ -160,7 +160,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [VS Solution Example for Content Hub](https://github.com/Sitecore/ContentHub-VS-Solution-Example) ⭐ 11 | 🐛 2 | 🌐 C# | 📅 2026-01-14 - A visual Studio Solution Example to download and base any Content Hub Development on, featuring Intellisense, Sync of scripts, Debugging and Unit-Testing.
 * [Starter Kit for Content Hub with Next.js and GraphQL](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2021-03-17 - Content Hub headless starter kit.
 * [Focal point cropping](https://github.com/robhabraken/content-hub-focal-point-cropping) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2025-03-03 - Focal point cropping for Content Hub.
-* [Content Hub CLI](https://github.com/Sitecore/content-hub-cli) ⭐ 2 | 🐛 0 | 📅 2026-01-23 - A repository with a source code of Sitecore Content Hub CLI.
+* [Content Hub CLI](https://github.com/Sitecore/content-hub-cli) ⭐ 2 | 🐛 0 | 📅 2026-03-19 - A repository with a source code of Sitecore Content Hub CLI.
 * [Sitecore Content Hub Importer](https://github.com/vasiliyfomichev/content-hub-importer) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2020-03-05 - Sitecore Content Hub Asset Importer; allows importing image assets from various data sources into Sitecore Content Hub.
 * [Sitecore.SharedSource.CMP.Connector.Extensions](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) ⭐ 1 | 🐛 2 | 🌐 C# | 📅 2022-12-08 - Extends Sitecore Connect for Sitecore CMP 2.0.0 so images set on CMP entities can be synchronized using the XML format used by Sitecore Connect™ for Sitecore DAM 2.0.0, so this module is required.
 * [Sitecore.ContentHub.Twitter](https://github.com/josedbaez/Sitecore.ContentHub.Twitter) ⭐ 0 | 🐛 1 | 🌐 C# | 📅 2022-12-08 - Demonstrates how to tweet from Sitecore Content Hub CMP.
@@ -174,8 +174,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Content SDK
 
-* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 33 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-18 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
-* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 22 | 🐛 10 | 🌐 PowerShell | 📅 2026-03-17 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
+* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 33 | 🐛 11 | 🌐 TypeScript | 📅 2026-03-19 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
+* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 22 | 🐛 10 | 🌐 PowerShell | 📅 2026-03-19 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
 
 ## Content Search
 
@@ -202,8 +202,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Demo
 
 * [Sitecore Habitat](https://github.com/Sitecore/Habitat) ⚠️ Archived - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
-* [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 85 | 🐛 2 | 🌐 C# | 📅 2025-07-21 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
-* [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples) ⭐ 76 | 🐛 42 | 🌐 CSS | 📅 2026-01-15 - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.
+* [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 84 | 🐛 2 | 🌐 C# | 📅 2025-07-21 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
+* [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples) ⭐ 75 | 🐛 42 | 🌐 CSS | 📅 2026-01-15 - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
 * [Sitecore.HabitatHome.Utilities](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) ⚠️ Archived - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance, etc.
 * [Sitecore Developer Portal](https://github.com/Sitecore/developer-portal) ⭐ 35 | 🐛 59 | 🌐 TypeScript | 📅 2026-03-18 - The Sitecore developer portal is built with Next.js, Typescript, and Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
@@ -302,7 +302,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Helix
 
 * [Helixbase](https://github.com/muso31/Helixbase) ⭐ 104 | 🐛 3 | 🌐 JavaScript | 📅 2023-06-26 - Sitecore Helix-based solution for Greenfield projects.
-* [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples) ⭐ 76 | 🐛 42 | 🌐 CSS | 📅 2026-01-15 - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.
+* [Sitecore Helix Examples](https://github.com/Sitecore/Helix.Examples) ⭐ 75 | 🐛 42 | 🌐 CSS | 📅 2026-01-15 - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.
 * [Helix Publishing Pipeline](https://github.com/richardszalay/helix-publishing-pipeline) ⭐ 68 | 🐛 20 | 🌐 PowerShell | 📅 2021-10-05 - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimizations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 * [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) ⚠️ Archived - Sitecore Framework that follows the Helix modular architecture design principles.Includes plenty of Feature and Foundation layer modules, as well as reusable Common from the Project layer.
 * [Sitecore Foundation](https://github.com/Avanade/SitecoreFoundation) ⚠️ Archived - Sitecore Framework from Avanade that follows the Helix modular architecture design principles.
@@ -350,7 +350,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Marketplace
 
-* [Sitecore Marketplace Starter](https://github.com/Sitecore/marketplace-starter) ⭐ 8 | 🐛 3 | 🌐 TypeScript | 📅 2025-10-30 - the starter template for building Marketplace extensions. It demonstrates five extension points: Custom Field, Dashboard Widget, Fullscreen, Pages Context Panel, and Standalone. Each extension point has its own UI and integration with the Sitecore Marketplace SDK.
+* [Sitecore Marketplace Starter](https://github.com/Sitecore/marketplace-starter) ⭐ 9 | 🐛 3 | 🌐 TypeScript | 📅 2025-10-30 - the starter template for building Marketplace extensions. It demonstrates five extension points: Custom Field, Dashboard Widget, Fullscreen, Pages Context Panel, and Standalone. Each extension point has its own UI and integration with the Sitecore Marketplace SDK.
 * [Google Analytics](https://github.com/Sitecore/marketplace-google-analytics) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-09 - Seamless Google Analytics integration within the XM Cloud environment. This module provides real-time analytics data visualization, including page views and active user metrics, directly within your Sitecore experience.
 * [Icon Picker](https://github.com/Sitecore/marketplace-icon-picker) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-09 - Marketplace Icon picker - a sample application showingcasing how to create a custom field extension.
 
@@ -419,8 +419,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## SDK
 
 * [JSS](https://github.com/Sitecore/jss) ⭐ 275 | 🐛 31 | 🌐 TypeScript | 📅 2026-03-16 - An official repo of Sitecore JavaScript Services SDK.
-* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 33 | 🐛 12 | 🌐 TypeScript | 📅 2026-03-18 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
-* [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-24 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
+* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 33 | 🐛 11 | 🌐 TypeScript | 📅 2026-03-19 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
+* [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-19 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
 * [ASP.NET Core SDK](https://github.com/Sitecore/ASP.NET-Core-SDK) ⭐ 13 | 🐛 21 | 🌐 C# | 📅 2026-01-11 - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
 
 ## Security
@@ -429,7 +429,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [Security Rights Reporting](https://github.com/jbluemink/Sitecore-Security-Rights-Reporting) ⭐ 8 | 🐛 2 | 🌐 C# | 📅 2022-06-22 - A module showing a grid with all users and all their rights in a friendly way with exporting options.
 * [SI Snitch](https://github.com/KayeeNL/SI-Snitch) ⭐ 7 | 🐛 0 | 🌐 C# | 📅 2024-05-03 - A debugging tool for reading claims passed to Sitecore from Sitecore Identity, after the transformation of those claims from Sitecore Identity. It can be helpful in identifying claims that Sitecore is getting (and in what format) and ensuring group transformations in Sitecore Identity are being processed properly.
 * [Sitecore Delete Access Rights](https://github.com/mikaelnet/sitecore-access-rights) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2017-08-10 - Enables the "item:removeVersion" access right, allowing authors to remove individual item versions without allowing authors to delete the entire item. It also allows the initial creator of an item to delete his/her own item, unless an explicit deny delete access right is applied to the item.
-* [ASP.NET 2.0 Membership Database as Identity Server User Store](https://github.com/Sitecore/sitecore-identityserver-contrib-membership) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-03-09 - Validate user logins and passwords against an existing ASP.NET 2.0 membership database containing user data for existing systems.
+* [ASP.NET 2.0 Membership Database as Identity Server User Store](https://github.com/Sitecore/sitecore-identityserver-contrib-membership) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2026-03-19 - Validate user logins and passwords against an existing ASP.NET 2.0 membership database containing user data for existing systems.
 * [MasterKey](https://github.com/islaytitans/MasterKey) ⭐ 1 | 🐛 0 | 🌐 C# | 📅 2015-04-12 - A module for Unlocking Sitecore Items.
 * [Certz](https://github.com/michaellwest/certz) ⭐ 1 | 🐛 10 | 🌐 C# | 📅 2026-03-05 - Utility built on .net 7 and compiled to a self-contained exe, aimed to simplify certificates management, as a better alternative to mkcert.
 
@@ -445,9 +445,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Serialization
 
-* [Unicorn](https://github.com/SitecoreUnicorn/Unicorn) ⭐ 268 | 🐛 48 | 🌐 C# | 📅 2024-06-15 - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
+* [Unicorn](https://github.com/SitecoreUnicorn/Unicorn) ⭐ 267 | 🐛 48 | 🌐 C# | 📅 2024-06-15 - A utility for Sitecore that solves the issue of moving templates, renderings, and other database items between Sitecore instances by writing serialized copies of Sitecore items to disk along with the code - this way, a copy of the necessary database items for a given codebase accompanies it in source control.
 * [Sidekick](https://github.com/JeffDarchuk/SitecoreSidekick) ⭐ 49 | 🐛 38 | 🌐 C# | 📅 2022-11-19 - A framework for angularjs-based microservice architecture operations.
-* [Rainbow](https://github.com/SitecoreUnicorn/Rainbow) ⭐ 34 | 🐛 7 | 🌐 C# | 📅 2022-06-22 - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
+* [Rainbow](https://github.com/SitecoreUnicorn/Rainbow) ⭐ 33 | 🐛 7 | 🌐 C# | 📅 2022-06-22 - An advanced serialization library for Sitecore, designed to be a complete replacement for the Sitecore serialization format and filesystem organization, as well as enabling cross-source item comparison.
 * [Rhino](https://github.com/kamsar/Rhino) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2013-06-14 - An experimental serialization data provider for Sitecore.
 
 ## Sitecore Host
