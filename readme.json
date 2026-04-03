@@ -476,7 +476,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-04-02T02:39:11Z",
+            "last_commit": "2026-04-03T02:38:56Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 182
@@ -850,7 +850,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T14:32:34Z",
+            "last_commit": "2026-04-02T19:42:03Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 33
@@ -1833,7 +1833,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-30T16:26:41Z",
+            "last_commit": "2026-04-02T14:09:35Z",
             "owner": "Sitecore",
             "repo": "jss",
             "stars": 275
@@ -2783,7 +2783,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-30T16:26:41Z",
+            "last_commit": "2026-04-02T14:09:35Z",
             "owner": "Sitecore",
             "repo": "jss",
             "stars": 275
@@ -2796,7 +2796,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-01T14:32:34Z",
+            "last_commit": "2026-04-02T19:42:03Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 33
@@ -3683,7 +3683,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-30T16:26:41Z",
+            "last_commit": "2026-04-02T14:09:35Z",
             "owner": "Sitecore",
             "repo": "jss",
             "stars": 275
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T04:34:51.541Z",
+    "last_updated": "2026-04-03T04:35:10.100Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "source_repository": "v1nvn/enhansome-Awesome-Sitecore",
     "source_repository_description": null,
