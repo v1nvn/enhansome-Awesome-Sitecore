@@ -91,7 +91,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Azure
 
-* [ARM templates for Sitecore](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) ⭐ 142 | 🐛 27 | 🌐 PowerShell | 📅 2026-03-17 - All currently available Azure Resource Manager templates for Sitecore.
+* [ARM templates for Sitecore](https://github.com/Sitecore/Sitecore-Azure-Quickstart-Templates) ⭐ 141 | 🐛 27 | 🌐 PowerShell | 📅 2026-03-17 - All currently available Azure Resource Manager templates for Sitecore.
 * [Language Understanding (LUIS) Samples](https://github.com/Azure-Samples/cognitive-services-language-understanding) ⚠️ Archived - Samples for the Language Understanding Intelligent Service (LUIS).
 * [Sitecore Azure Content](https://github.com/olegburov/Sitecore-Azure-Content) ⚠️ Archived - Articles on how to automate deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
 * [Sitecore Azure Scripts](https://github.com/robhabraken/Sitecore-Azure-Scripts) ⭐ 16 | 🐛 0 | 🌐 PowerShell | 📅 2020-12-17 - Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
@@ -137,8 +137,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Containers
 
-* [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) ⭐ 1,152 | 🐛 16 | 🌐 PowerShell | 📅 2025-06-08 - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
-* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 182 | 🐛 47 | 🌐 PowerShell | 📅 2026-04-03 - Build your own Docker images for the most recent versions of Sitecore.
+* [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) ⭐ 1,153 | 🐛 16 | 🌐 PowerShell | 📅 2025-06-08 - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
+* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 182 | 🐛 47 | 🌐 PowerShell | 📅 2026-04-04 - Build your own Docker images for the most recent versions of Sitecore.
 * [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 84 | 🐛 2 | 🌐 C# | 📅 2025-07-21 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 * [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) ⭐ 83 | 🐛 14 | 🌐 PowerShell | 📅 2025-06-25 - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
@@ -174,8 +174,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Content SDK
 
-* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 33 | 🐛 16 | 🌐 TypeScript | 📅 2026-04-02 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
-* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 22 | 🐛 18 | 🌐 PowerShell | 📅 2026-03-25 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
+* [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 33 | 🐛 17 | 🌐 TypeScript | 📅 2026-04-03 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
+* [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) ⭐ 22 | 🐛 24 | 🌐 PowerShell | 📅 2026-03-25 - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
 
 ## Content Search
 
@@ -350,7 +350,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Marketplace
 
-* [Sitecore Marketplace Starter](https://github.com/Sitecore/marketplace-starter) ⭐ 9 | 🐛 3 | 🌐 TypeScript | 📅 2025-10-30 - the starter template for building Marketplace extensions. It demonstrates five extension points: Custom Field, Dashboard Widget, Fullscreen, Pages Context Panel, and Standalone. Each extension point has its own UI and integration with the Sitecore Marketplace SDK.
+* [Sitecore Marketplace Starter](https://github.com/Sitecore/marketplace-starter) ⭐ 10 | 🐛 3 | 🌐 TypeScript | 📅 2025-10-30 - the starter template for building Marketplace extensions. It demonstrates five extension points: Custom Field, Dashboard Widget, Fullscreen, Pages Context Panel, and Standalone. Each extension point has its own UI and integration with the Sitecore Marketplace SDK.
 * [Google Analytics](https://github.com/Sitecore/marketplace-google-analytics) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2025-12-09 - Seamless Google Analytics integration within the XM Cloud environment. This module provides real-time analytics data visualization, including page views and active user metrics, directly within your Sitecore experience.
 * [Icon Picker](https://github.com/Sitecore/marketplace-icon-picker) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-09 - Marketplace Icon picker - a sample application showingcasing how to create a custom field extension.
 
@@ -419,7 +419,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## SDK
 
 * [JSS](https://github.com/Sitecore/jss) ⭐ 275 | 🐛 34 | 🌐 TypeScript | 📅 2026-04-02 - An official repo of Sitecore JavaScript Services SDK.
-* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 33 | 🐛 16 | 🌐 TypeScript | 📅 2026-04-02 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
+* [Content SDK](https://github.com/Sitecore/content-sdk) ⭐ 33 | 🐛 17 | 🌐 TypeScript | 📅 2026-04-03 - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
 * [Marketplace SDK](https://github.com/Sitecore/sitecore-marketplace-sdk) ⭐ 18 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-19 - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
 * [ASP.NET Core SDK](https://github.com/Sitecore/ASP.NET-Core-SDK) ⭐ 13 | 🐛 20 | 🌐 C# | 📅 2026-01-11 - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
 
