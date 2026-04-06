@@ -138,7 +138,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Containers
 
 * [Windows Docker Machine](https://github.com/StefanScherer/windows-docker-machine) ⭐ 1,153 | 🐛 16 | 🌐 PowerShell | 📅 2025-06-08 - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
-* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 182 | 🐛 47 | 🌐 PowerShell | 📅 2026-04-05 - Build your own Docker images for the most recent versions of Sitecore.
+* [Repository of Sitecore Docker images](https://github.com/Sitecore/docker-images) ⭐ 182 | 🐛 47 | 🌐 PowerShell | 📅 2026-04-06 - Build your own Docker images for the most recent versions of Sitecore.
 * [Lighthouse Demo](https://github.com/Sitecore/Sitecore.Demo.Platform) ⭐ 84 | 🐛 2 | 🌐 C# | 📅 2025-07-21 - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 * [Sitecore Docker Examples](https://github.com/Sitecore/docker-examples) ⭐ 83 | 🐛 14 | 🌐 PowerShell | 📅 2025-06-25 - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
 * [Sitecore MVP](https://github.com/Sitecore/MVP-Site) ⚠️ Archived - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
@@ -468,7 +468,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## SPE (Sitecore PowerShell Extension)
 
 * [SPE Content Migrator](https://github.com/michaellwest/Spe-Content-Migrator) ⭐ 18 | 🐛 3 | 🌐 PowerShell | 📅 2023-02-23 - Script used to migrate content between Sitecore instances using SPE.
-* [Sitecore PowerShell Book](https://github.com/SitecorePowerShell/Book) ⭐ 9 | 🐛 18 | 🌐 CSS | 📅 2025-12-15 - Sitecore PowerShell Book with all the documentation.
+* [Sitecore PowerShell Book](https://github.com/SitecorePowerShell/Book) ⭐ 9 | 🐛 35 | 🌐 CSS | 📅 2025-12-15 - Sitecore PowerShell Book with all the documentation.
 * [Sitecore.Utilities](https://github.com/alan-null/Sitecore.Utilities) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2019-12-09 - A set of small modules for Sitecore PowerShell Extensions.
 * [Sitecore PowerShell](https://github.com/SitecorePowerShell) - Sitecore PowerShell Initiative official GitHub.
 
