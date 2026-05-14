@@ -476,7 +476,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-05-13T04:40:45Z",
+            "last_commit": "2026-05-14T04:41:19Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 182
@@ -850,7 +850,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T21:44:52Z",
+            "last_commit": "2026-05-13T20:14:53Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 33
@@ -863,7 +863,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-05-12T03:19:36Z",
+            "last_commit": "2026-05-13T23:26:13Z",
             "owner": "Sitecore",
             "repo": "xmcloud-starter-js",
             "stars": 24
@@ -1196,7 +1196,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-24T09:24:31Z",
+            "last_commit": "2026-05-13T21:38:16Z",
             "owner": "Sitecore",
             "repo": "developer-portal",
             "stars": 35
@@ -1235,7 +1235,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-24T09:24:31Z",
+            "last_commit": "2026-05-13T21:38:16Z",
             "owner": "Sitecore",
             "repo": "developer-portal",
             "stars": 35
@@ -2796,7 +2796,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T21:44:52Z",
+            "last_commit": "2026-05-13T20:14:53Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 33
@@ -3631,7 +3631,7 @@
           "repo_info": {
             "archived": false,
             "language": "CSS",
-            "last_commit": "2026-05-13T01:31:27Z",
+            "last_commit": "2026-05-13T22:33:13Z",
             "owner": "Sitecore",
             "repo": "XM-Cloud-Introduction",
             "stars": 52
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:54:14.679Z",
+    "last_updated": "2026-05-14T05:53:26.877Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "source_repository": "v1nvn/enhansome-Awesome-Sitecore",
     "source_repository_description": null,
