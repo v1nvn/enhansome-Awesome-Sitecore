@@ -476,7 +476,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-05-17T04:38:33Z",
+            "last_commit": "2026-05-18T04:48:12Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 182
@@ -1933,7 +1933,7 @@
             "last_commit": "2021-10-05T20:54:42Z",
             "owner": "richardszalay",
             "repo": "helix-publishing-pipeline",
-            "stars": 68
+            "stars": 67
           }
         },
         {
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T05:53:48.296Z",
+    "last_updated": "2026-05-18T06:20:23.309Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "source_repository": "v1nvn/enhansome-Awesome-Sitecore",
     "source_repository_description": null,
