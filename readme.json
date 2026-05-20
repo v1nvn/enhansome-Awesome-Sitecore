@@ -476,7 +476,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-05-19T04:43:31Z",
+            "last_commit": "2026-05-20T04:44:32Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 182
@@ -850,7 +850,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T01:14:12Z",
+            "last_commit": "2026-05-19T09:02:30Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 33
@@ -863,7 +863,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-05-19T05:55:40Z",
+            "last_commit": "2026-05-20T04:42:20Z",
             "owner": "Sitecore",
             "repo": "xmcloud-starter-js",
             "stars": 24
@@ -1199,7 +1199,7 @@
             "last_commit": "2026-05-15T09:33:22Z",
             "owner": "Sitecore",
             "repo": "developer-portal",
-            "stars": 35
+            "stars": 36
           }
         },
         {
@@ -1238,7 +1238,7 @@
             "last_commit": "2026-05-15T09:33:22Z",
             "owner": "Sitecore",
             "repo": "developer-portal",
-            "stars": 35
+            "stars": 36
           }
         }
       ],
@@ -2796,7 +2796,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T01:14:12Z",
+            "last_commit": "2026-05-19T09:02:30Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 33
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:14:57.368Z",
+    "last_updated": "2026-05-20T06:15:19.604Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "source_repository": "v1nvn/enhansome-Awesome-Sitecore",
     "source_repository_description": null,
