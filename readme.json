@@ -476,7 +476,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-06-01T06:49:36Z",
+            "last_commit": "2026-06-02T06:44:17Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 182
@@ -863,7 +863,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-06-01T06:17:08Z",
+            "last_commit": "2026-06-02T05:11:03Z",
             "owner": "Sitecore",
             "repo": "xmcloud-starter-js",
             "stars": 26
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T07:07:39.973Z",
+    "last_updated": "2026-06-02T06:48:16.602Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "source_repository": "v1nvn/enhansome-Awesome-Sitecore",
     "source_repository_description": null,
