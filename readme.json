@@ -476,7 +476,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-06-12T06:42:24Z",
+            "last_commit": "2026-06-13T04:41:28Z",
             "owner": "Sitecore",
             "repo": "docker-images",
             "stars": 182
@@ -557,7 +557,7 @@
             "last_commit": "2022-12-04T22:34:44Z",
             "owner": "Sitecore",
             "repo": "MVP-Site",
-            "stars": 66
+            "stars": 65
           }
         },
         {
@@ -773,7 +773,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-03-03T21:52:04Z",
+            "last_commit": "2026-06-12T13:48:44Z",
             "owner": "robhabraken",
             "repo": "content-hub-focal-point-cropping",
             "stars": 6
@@ -850,7 +850,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T06:28:53Z",
+            "last_commit": "2026-06-12T19:55:39Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 34
@@ -863,7 +863,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-06-03T07:50:46Z",
+            "last_commit": "2026-06-13T01:25:57Z",
             "owner": "Sitecore",
             "repo": "xmcloud-starter-js",
             "stars": 27
@@ -1116,7 +1116,7 @@
             "last_commit": "2022-12-04T22:34:44Z",
             "owner": "Sitecore",
             "repo": "MVP-Site",
-            "stars": 66
+            "stars": 65
           }
         },
         {
@@ -2796,7 +2796,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-12T06:28:53Z",
+            "last_commit": "2026-06-12T19:55:39Z",
             "owner": "Sitecore",
             "repo": "content-sdk",
             "stars": 34
@@ -3694,7 +3694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:49:25.969Z",
+    "last_updated": "2026-06-13T06:23:11.164Z",
     "original_repository": "MartinMiles/Awesome-Sitecore",
     "source_repository": "v1nvn/enhansome-Awesome-Sitecore",
     "source_repository_description": null,
